@@ -6,7 +6,7 @@
   display: inline-block;
   margin-bottom: 20px;
   text-decoration: none;
-  color: #007bff;
+  color: #c800ff;
 }
 
 .nav {
@@ -16,12 +16,11 @@
 }
 
 .link {
-  /* margin-right: 10px; */
-  text-decoration: none;
+   text-decoration: none;
   color: #000;
 }
 
 .activeLink {
   font-weight: bold;
-  color: #007bff;
+  color: #8000ff;
 }

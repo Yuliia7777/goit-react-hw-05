@@ -13,6 +13,7 @@ const MovieReviews = lazy(() =>
   import("./components/MovieReviews/MovieReviews")
 );
 const NotFoundPage = lazy(() => import("./pages/NotFoundPage/NotFoundPage"));
+//const About = lazy(() => import("./pages/About/About"));
 
 export const App = () => {
   return (
